@@ -170,7 +170,7 @@ export default function App() {
         color: "white",
         padding: "20px"
       }}>
-        <h2>🏦 AI Console</h2>
+        <h2>AI Decision Engine Demoe</h2>
 
         <p onClick={() => setMode("chat")} style={{ cursor: "pointer" }}>
           🤖 Chat Assistant
