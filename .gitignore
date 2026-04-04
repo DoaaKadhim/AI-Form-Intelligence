@@ -1,0 +1,22 @@
+node_modules/
+
+# env files 🔒
+.env
+.env.*
+
+# build
+dist/
+build/
+
+# logs
+*.log
+
+# system
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+node_modules/
+.env
+.env.*
